@@ -1,0 +1,149 @@
+{
+  "generated_on": "2026-11-05",
+  "requests": [
+    {
+      "request_id": "REQ-2101",
+      "customer": "Northwind Retail",
+      "title": "Bulk export API for invoice archives",
+      "component": "billing-api",
+      "severity": "critical",
+      "customer_tier": "enterprise",
+      "votes": 8,
+      "region": "EMEA",
+      "submitted_at": "2026-10-21",
+      "description": "Finance teams need programmatic access to archived invoices for audit workflows."
+    },
+    {
+      "request_id": "REQ-2102",
+      "customer": "Bluepeak Logistics",
+      "title": "Faster scheduled export delivery",
+      "component": "exports",
+      "severity": "high",
+      "customer_tier": "business",
+      "votes": 26,
+      "region": "APAC",
+      "submitted_at": "2026-10-22",
+      "description": "Scheduled exports arrive several hours late during peak processing windows."
+    },
+    {
+      "request_id": "REQ-2103",
+      "customer": "Contoso Health",
+      "title": "Cohort retention dashboard",
+      "component": "analytics",
+      "severity": "medium",
+      "customer_tier": "enterprise",
+      "votes": 12,
+      "region": "NA",
+      "submitted_at": "2026-10-24",
+      "description": "Clinical operations wants cohort retention views sliced by enrollment period."
+    },
+    {
+      "request_id": "REQ-2104",
+      "customer": "Solo Studio",
+      "title": "Dark mode for the settings page",
+      "component": "settings",
+      "severity": "low",
+      "customer_tier": "starter",
+      "votes": 3,
+      "region": "NA",
+      "submitted_at": "2026-10-25",
+      "description": "A small studio asks for a dark theme on the account settings screen."
+    },
+    {
+      "request_id": "REQ-2105",
+      "customer": "Fabrikam",
+      "title": "Guided onboarding checklist",
+      "component": "onboarding",
+      "severity": "high",
+      "customer_tier": "business",
+      "votes": 18,
+      "region": "EMEA",
+      "submitted_at": "2026-10-26",
+      "description": "New workspace admins want a step-by-step checklist for initial setup."
+    },
+    {
+      "request_id": "REQ-2106",
+      "customer": "Tailspin Toys",
+      "title": "Mobile push notifications",
+      "component": "mobile-app",
+      "severity": "critical",
+      "customer_tier": "enterprise",
+      "votes": 40,
+      "region": "APAC",
+      "submitted_at": "2026-10-27",
+      "description": "Warehouse staff need push alerts on the companion mobile application."
+    },
+    {
+      "request_id": "REQ-2107",
+      "customer": "Adventure Works",
+      "title": "Export scheduling fails for large tenants",
+      "component": "exports",
+      "severity": "critical",
+      "customer_tier": "enterprise",
+      "votes": 22,
+      "region": "NA",
+      "submitted_at": "2026-10-27",
+      "description": "Nightly export schedules silently fail for tenants above ten million rows."
+    },
+    {
+      "request_id": "REQ-2108",
+      "customer": "Litware Inc",
+      "title": "Report builder timeout on large datasets",
+      "component": "reporting",
+      "severity": "high",
+      "customer_tier": "business",
+      "votes": 31,
+      "region": "EMEA",
+      "submitted_at": "2026-10-28",
+      "description": "Report builder requests time out after sixty seconds on wide datasets."
+    },
+    {
+      "request_id": "REQ-2109",
+      "customer": "Proseware",
+      "title": "Notification digest for enterprise accounts",
+      "component": "notifications",
+      "severity": "critical",
+      "customer_tier": "enterprise",
+      "votes": 17,
+      "region": "NA",
+      "submitted_at": "2026-10-29",
+      "description": "Security teams need a daily digest of notification activity per workspace."
+    },
+    {
+      "request_id": "REQ-2110",
+      "customer": "Woodgrove Bank",
+      "title": "Refund status webhook",
+      "component": "refunds",
+      "severity": "low",
+      "customer_tier": "enterprise",
+      "votes": 11,
+      "region": "EMEA",
+      "submitted_at": "2026-10-30",
+      "description": "Reconciliation jobs want a webhook when refund settlement status changes."
+    },
+    {
+      "request_id": "REQ-2111",
+      "customer": "Coho Vineyard",
+      "title": "Notification preferences per channel",
+      "component": "notifications",
+      "severity": "medium",
+      "customer_tier": "starter",
+      "votes": 2,
+      "region": "APAC",
+      "submitted_at": "2026-10-31",
+      "description": "Allow members to mute email but keep in-app notifications enabled."
+    },
+    {
+      "request_id": "REQ-2112",
+      "customer": "Alpine Ski House",
+      "title": "Seasonal pricing rules",
+      "component": "pricing",
+      "severity": "high",
+      "customer_tier": "business",
+      "votes": 19,
+      "region": "EMEA",
+      "submitted_at": "2026-11-01",
+      "description": "Pricing admins need date ranges that automatically switch plan prices."
+    }
+  ]
+}

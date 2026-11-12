@@ -1,0 +1,41 @@
+{
+  "teams": [
+    {
+      "team": "payments-platform",
+      "label": "team/payments",
+      "components": [
+        "billing-api",
+        "checkout",
+        "refunds"
+      ]
+    },
+    {
+      "team": "growth",
+      "label": "team/growth",
+      "components": [
+        "onboarding",
+        "referrals",
+        "pricing"
+      ]
+    },
+    {
+      "team": "data-platform",
+      "label": "team/data",
+      "components": [
+        "analytics",
+        "exports",
+        "reporting"
+      ]
+    },
+    {
+      "team": "core-ui",
+      "label": "team/core-ui",
+      "components": [
+        "dashboard",
+        "notifications",
+        "settings"
+      ]
+    }
+  ],
+  "updated": "2026-10-30"
+}
